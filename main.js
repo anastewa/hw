@@ -1,4 +1,4 @@
-  function ageUser (age) {
+  function canYouDoUser (age) {
    if (age < 18) {
      console.log(" готовься к взрослой жизни, хохохо");
    } 
@@ -22,6 +22,6 @@
      console.log("можешь наслаждаться пенсией");
    }
 }
-ageUser(40)
-ageUser(22)
-ageUser(15)
+canYouDoUser(40)
+canYouDoUser(22)
+canYouDoUser(15)
